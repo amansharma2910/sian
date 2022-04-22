@@ -56,10 +56,3 @@ The current point system that we have is dynamic but we would love to introduce 
 ## Try it out here
 You can download the apk file to try it out yourself!</br>
 Download it here - [Sian](https://drive.google.com/drive/folders/1-GV4iofJgW17xEWMMIu47BEPczPhSqy6)
-
-## Creators 
-This Project was built by - 
-
-| [<img alt="AM1CODES" src="https://avatars.githubusercontent.com/u/52394145?v=4" width="115"><br><sub>Aayush Mishra</sub>](https://github.com/AM1CODES) | [<img alt="mihir7121" src="https://avatars.githubusercontent.com/u/53087550?v=4" width="115"><br><sub>Aman Sharma</sub>](https://github.com/amansharma2910) | [<img alt="skully-coder" src="https://avatars.githubusercontent.com/u/55917548?v=4" width="115"><br><sub>Abhinav Agrawal</sub>](https://github.com/skully-coder)
-| :---: |:---: |:---: 
-
